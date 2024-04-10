@@ -1,7 +1,2 @@
-#include<iostream>
-using namespace std;
+cout << " Here i post some C and C++ archives";
 
-int main()
-{
-  cout << " Here i post some C and C++ archives";
-}
